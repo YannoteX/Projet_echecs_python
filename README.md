@@ -19,4 +19,5 @@
 - Un affichage texte des pieces pour ceux ne pouvant afficher de l'utf-8
 -      ^-- a terme, une interface graphique ; ca serait encore mieux
 - Traductions
+- Une véritable application, comme ça... A bat les consoles de commandes !
 - Et puis soyons fou... Un mode multijoueur en ligne hein ? (pourquoi pas ?)
