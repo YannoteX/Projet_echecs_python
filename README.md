@@ -17,6 +17,6 @@
 
 - Un jeu complet (déplacement du roi, echec au roi, fin de partie (echec et mat))
 - Un affichage texte des pieces pour ceux ne pouvant afficher de l'utf-8
--      ^-- a terme, une interface graphique; ca serait encore mieux
+-      ^-- a terme, une interface graphique ; ca serait encore mieux
 - Traductions
 - Et puis soyons fou... Un mode multijoueur en ligne hein ? (pourquoi pas ?)
