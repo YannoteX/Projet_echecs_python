@@ -5,7 +5,7 @@
 - Assurez-vous d'avoir une console permettant d'afficher des caractères UTF-8 (regardez sur internet)
 - Les coups se jouent avec la notation internationale (cf règles)
 - Les interactions avec le roi sont encore bloquées du à l'incomplétion du projet
-- Ce projet est à l'origine un projet étudiant qui n'a pas pu être terminé, le fichier old est purement à but d'archivage et ne sert absoluement à rien, mais vous savez la nostalgie...
+- Ce projet est à l'origine un projet étudiant qui n'a pas pu être terminé, le fichier old est purement à but d'archivage et ne sert absoluement à rien, je me tâte à le supprimer d'ailleurs...
 
 ## TUTORIEL D'INSTALLATION ##
 
